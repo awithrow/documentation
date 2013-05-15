@@ -396,6 +396,12 @@
 							executable by users in a different account.</entry>
 					</row>
 					<row>
+						<entry>Successfuly started migration can be reported as failed
+							(<xref format='html' href="https://eucalyptus.atlassian.net/browse/EUCA-6043">EUCA-6043</xref></entry>
+						<entry>When attempting to migrate an instance, the user may see an error message, however
+							the migration has been started and should successfuly complete.  </entry>
+					</row>
+					<row>
 						<entry/>
 						<entry/>
 					</row>
